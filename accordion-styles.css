@@ -1,0 +1,22 @@
+.word-title {
+    cursor: pointer;
+    padding: 10px;
+    background-color: #f0f0f0;
+    border-radius: 5px;
+}
+
+.word-content {
+    display: none;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 0 0 5px 5px;
+}
+
+.word-title::after {
+    content: '▼';
+    float: right;
+}
+
+.word-title.active::after {
+    content: '▲';
+}
