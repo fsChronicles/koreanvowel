@@ -1,0 +1,94 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 200">
+  <!-- Background -->
+  <rect width="400" height="200" fill="#ffffff"/>
+  
+  <!-- Main Logo Container -->
+  <g transform="translate(50, 30)">
+    <!-- Book Shape -->
+    <path d="M0,20 L240,20 L260,0 L300,0 L300,140 L260,140 L240,160 L0,160 Z" 
+          fill="#1b3968" stroke="#1b3968" stroke-width="2"/>
+    
+    <!-- Inner Pages Accent -->
+    <path d="M5,25 L235,25 L255,5 L295,5" 
+          fill="none" stroke="#ffffff" stroke-width="1.5" opacity="0.6"/>
+    <path d="M5,30 L235,30 L255,10 L295,10" 
+          fill="none" stroke="#ffffff" stroke-width="1.5" opacity="0.6"/>
+    
+    <!-- Hangeul Elements -->
+    <g transform="translate(30, 45)">
+      <!-- First Row - Basic Vowels -->
+      <text x="20" y="30" 
+            font-family="Noto Sans KR" 
+            font-size="24" 
+            fill="#ffffff" 
+            text-anchor="middle">ㅏ</text>
+      
+      <text x="60" y="30" 
+            font-family="Noto Sans KR" 
+            font-size="24" 
+            fill="#ffffff" 
+            text-anchor="middle">ㅓ</text>
+            
+      <text x="100" y="30" 
+            font-family="Noto Sans KR" 
+            font-size="24" 
+            fill="#ffffff" 
+            text-anchor="middle">ㅗ</text>
+            
+      <text x="140" y="30" 
+            font-family="Noto Sans KR" 
+            font-size="24" 
+            fill="#ffffff" 
+            text-anchor="middle">ㅜ</text>
+      
+      <!-- Second Row - Long Vowels -->
+      <text x="20" y="70" 
+            font-family="Noto Sans KR" 
+            font-size="24" 
+            fill="#ffffff" 
+            text-anchor="middle">ㅏː</text>
+            
+      <text x="60" y="70" 
+            font-family="Noto Sans KR" 
+            font-size="24" 
+            fill="#ffffff" 
+            text-anchor="middle">ㅓː</text>
+            
+      <text x="100" y="70" 
+            font-family="Noto Sans KR" 
+            font-size="24" 
+            fill="#ffffff" 
+            text-anchor="middle">ㅗː</text>
+            
+      <text x="140" y="70" 
+            font-family="Noto Sans KR" 
+            font-size="24" 
+            fill="#ffffff" 
+            text-anchor="middle">ㅜː</text>
+            
+      <!-- Decorative Line -->
+      <line x1="170" y1="20" x2="170" y2="80" 
+            stroke="#ffffff" stroke-width="1" opacity="0.6"/>
+            
+      <!-- Consonants -->
+      <text x="190" y="40" 
+            font-family="Noto Sans KR" 
+            font-size="20" 
+            fill="#ffffff" 
+            text-anchor="start">ㄱㄴㄷㄹ</text>
+      <text x="190" y="70" 
+            font-family="Noto Sans KR" 
+            font-size="20" 
+            fill="#ffffff" 
+            text-anchor="start">ㅁㅂㅅㅇ</text>
+    </g>
+  </g>
+  
+  <!-- Subtitle -->
+  <text x="200" y="180" 
+        font-family="Noto Sans KR" 
+        font-size="14" 
+        fill="#1b3968" 
+        text-anchor="middle"
+        letter-spacing="0.2em">우리말 바로알기</text>
+</svg>
