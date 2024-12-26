@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="1200" version="1.1">
+<rect x="0" y="0" width="800" height="1200" fill="#F7F2E8" />
+<g transform="translate(400, 600)" style="text-anchor:middle; dominant-baseline:middle;">
+<text x="-350" y="-500" style="font-family:'SimSun'; font-size:40px;" fill="#D6A477">生</text>
+<text x="-100" y="-500" style="font-family:'SimSun'; font-size:40px;" fill="#D6A477">內:</text>
+<text x="150" y="-500" style="font-family:'SimSun'; font-size:40px;" fill="#D6A477">名</text>
+<text x="350" y="-500" style="font-family:'SimSun'; font-size:40px;" fill="#D6A477">老:</text>
+<text x="-350" y="-300" style="font-family:'SimSun'; font-size:40px;" fill="#D6A477">登</text>
+<text x="-100" y="-300" style="font-family:'SimSun'; font-size:40px;" fill="#D6A477">現:</text>
+<text x="150" y="-300" style="font-family:'SimSun'; font-size:40px;" fill="#D6A477">人</text>
+<text x="350" y="-300" style="font-family:'SimSun'; font-size:40px;" fill="#D6A477">面:</text>
+<text x="-350" y="-100" style="font-family:'SimSun'; font-size:40px;" fill="#D6A477">小:</text>
+<text x="-100" y="-100" style="font-family:'SimSun'; font-size:40px;" fill="#D6A477">農</text>
+<text x="150" y="-100" style="font-family:'SimSun'; font-size:40px;" fill="#D6A477">海:</text>
+<text x="350" y="-100" style="font-family:'SimSun'; font-size:40px;" fill="#D6A477">立</text>
+<text x="-350" y="100" style="font-family:'SimSun'; font-size:40px;" fill="#D6A477">戰:</text>
+<text x="-100" y="100" style="font-family:'SimSun'; font-size:40px;" fill="#D6A477">根</text>
+<text x="150" y="100" style="font-family:'SimSun'; font-size:40px;" fill="#D6A477">會:</text>
+<text x="350" y="100" style="font-family:'SimSun'; font-size:40px;" fill="#D6A477">五:</text>
+<text x="-350" y="300" style="font-family:'SimSun'; font-size:40px;" fill="#D6A477">反:</text>
+<text x="-100" y="300" style="font-family:'SimSun'; font-size:40px;" fill="#D6A477">發</text>
+<text x="150" y="300" style="font-family:'SimSun'; font-size:40px;" fill="#D6A477">寸:</text>
+<text x="350" y="300" style="font-family:'SimSun'; font-size:40px;" fill="#D6A477">代:</text>
+<text x="-350" y="500" style="font-family:'SimSun'; font-size:40px;" fill="#D6A477">古:</text>
+<text x="-100" y="500" style="font-family:'SimSun'; font-size:40px;" fill="#D6A477">下:</text>
+<text x="150" y="500" style="font-family:'SimSun'; font-size:40px;" fill="#D6A477">後:</text>
+<text x="350" y="500" style="font-family:'SimSun'; font-size:40px;" fill="#D6A477">例:</text>
+</g>
+<line x1="100" y1="50" x2="100" y2="1150" stroke="#A4C2A5" stroke-width="2" stroke-dasharray="5,5" />
+<line x1="200" y1="50" x2="200" y2="1150" stroke="#A4C2A5" stroke-width="2" stroke-dasharray="5,5" />
+<line x1="300" y1="50" x2="300" y2="1150" stroke="#A4C2A5" stroke-width="2" stroke-dasharray="5,5" />
+<line x1="400" y1="50" x2="400" y2="1150" stroke="#A4C2A5" stroke-width="2" stroke-dasharray="5,5" />
+<line x1="500" y1="50" x2="500" y2="1150" stroke="#A4C2A5" stroke-width="2" stroke-dasharray="5,5" />
+<line x1="600" y1="50" x2="600" y2="1150" stroke="#A4C2A5" stroke-width="2" stroke-dasharray="5,5" />
+<line x1="700" y1="50" x2="700" y2="1150" stroke="#A4C2A5" stroke-width="2" stroke-dasharray="5,5" />
+<g style="opacity:0.3">
+<text x="50" y="150" style="font-family:'Malgun Gothic'; font-size:30px;" fill="#777">ㅡ</text>
+<text x="50" y="300" style="font-family:'Malgun Gothic'; font-size:30px;" fill="#777">ㅁ</text>
+<text x="50" y="450" style="font-family:'Malgun Gothic'; font-size:30px;" fill="#777">ㅋ</text>
+<text x="50" y="600" style="font-family:'Malgun Gothic'; font-size:30px;" fill="#777">ㅓ</text>
+<text x="50" y="750" style="font-family:'Malgun Gothic'; font-size:30px;" fill="#777">ㅡ</text>
+<text x="50" y="900" style="font-family:'Malgun Gothic'; font-size:30px;" fill="#777">ㅁ</text>
+<text x="200" y="150" style="font-family:'Malgun Gothic'; font-size:30px;" fill="#777">ㅁ</text>
+<text x="200" y="300" style="font-family:'Malgun Gothic'; font-size:30px;" fill="#777">ㅋ</text>
+<text x="200" y="450" style="font-family:'Malgun Gothic'; font-size:30px;" fill="#777">ㅓ</text>
+<text x="200" y="600" style="font-family:'Malgun Gothic'; font-size:30px;" fill="#777">ㅡ</text>
+<text x="200" y="750" style="font-family:'Malgun Gothic'; font-size:30px;" fill="#777">ㅁ</text>
+<text x="200" y="900" style="font-family:'Malgun Gothic'; font-size:30px;" fill="#777">ㅋ</text>
+<text x="350" y="150" style="font-family:'Malgun Gothic'; font-size:30px;" fill="#777">ㅋ</text>
+<text x="350" y="300" style="font-family:'Malgun Gothic'; font-size:30px;" fill="#777">ㅓ</text>
+<text x="350" y="450" style="font-family:'Malgun Gothic'; font-size:30px;" fill="#777">ㅡ</text>
+<text x="350" y="600" style="font-family:'Malgun Gothic'; font-size:30px;" fill="#777">ㅁ</text>
+<text x="350" y="750" style="font-family:'Malgun Gothic'; font-size:30px;" fill="#777">ㅋ</text>
+<text x="350" y="900" style="font-family:'Malgun Gothic'; font-size:30px;" fill="#777">ㅓ</text>
+<text x="500" y="150" style="font-family:'Malgun Gothic'; font-size:30px;" fill="#777">ㅓ</text>
+<text x="500" y="300" style="font-family:'Malgun Gothic'; font-size:30px;" fill="#777">ㅡ</text>
+<text x="500" y="450" style="font-family:'Malgun Gothic'; font-size:30px;" fill="#777">ㅁ</text>
+<text x="500" y="600" style="font-family:'Malgun Gothic'; font-size:30px;" fill="#777">ㅋ</text>
+<text x="500" y="750" style="font-family:'Malgun Gothic'; font-size:30px;" fill="#777">ㅓ</text>
+<text x="500" y="900" style="font-family:'Malgun Gothic'; font-size:30px;" fill="#777">ㅡ</text>
+<text x="650" y="150" style="font-family:'Malgun Gothic'; font-size:30px;" fill="#777">ㅡ</text>
+<text x="650" y="300" style="font-family:'Malgun Gothic'; font-size:30px;" fill="#777">ㅁ</text>
+<text x="650" y="450" style="font-family:'Malgun Gothic'; font-size:30px;" fill="#777">ㅋ</text>
+<text x="650" y="600" style="font-family:'Malgun Gothic'; font-size:30px;" fill="#777">ㅓ</text>
+<text x="650" y="750" style="font-family:'Malgun Gothic'; font-size:30px;" fill="#777">ㅡ</text>
+<text x="650" y="900" style="font-family:'Malgun Gothic'; font-size:30px;" fill="#777">ㅁ</text>
+</g>
+</svg>
