@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
+  <!-- Background -->
+  <rect width="16" height="16" fill="#1a365d"/>
+  
+  <!-- Main Container -->
+  <g transform="translate(1, 1)">
+    <!-- 이전 코드 동일 -->
+    
+    <!-- Right Section - 텍스트 최적화 -->
+    <g transform="translate(9.5, 2)">
+      <text x="0" y="2.5" 
+            font-family="Arial Unicode MS, NanumGothic" 
+            font-size="2.2" 
+            fill="#ffffff" 
+            font-weight="bold">ㅏː</text>
+      <text x="0" y="6" 
+            font-family="Arial Unicode MS, NanumGothic" 
+            font-size="2.2" 
+            fill="#ffffff"
+            font-weight="bold">ㅓː</text>
+      <text x="0" y="9.5" 
+            font-family="Arial Unicode MS, NanumGothic" 
+            font-size="2.2" 
+            fill="#ffffff"
+            font-weight="bold">ㅗː</text>
+    </g>
+  </g>
+</svg>
